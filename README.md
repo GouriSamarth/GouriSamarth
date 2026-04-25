@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🎀 About Me:
 Aspiring Software Engineer  |  Computer Science Student<br><br>Experienced in developing scalable mobile applications using Flutter, Jetpack Compose, and XML. Focused on writing clean, maintainable code, optimizing performance, and solving real-world problems.  <br><br>Currently strengthening problem-solving skills through Data Structures and Algorithms (DSA) and building a strong foundation in Low-Level Design (LLD) and system design.<br><br><br><br><br>
 
 
